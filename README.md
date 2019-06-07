@@ -1,4 +1,4 @@
-# Binding Data into a Model Example
+# Binding Data into a Model Example (Angular Form)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
